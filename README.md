@@ -2,6 +2,3 @@
 
 Assignment for Module 9 --- Version Control
 
-#EUID
-
-#Fav Professor
